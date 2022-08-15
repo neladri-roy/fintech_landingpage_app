@@ -14,3 +14,5 @@ Tailwind CSS:
 
 npm install -D tailwindcss postcss autoprefixer
 npm tailwindcss init -p   ( create config files)
+
+image.png
