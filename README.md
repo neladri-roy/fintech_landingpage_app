@@ -15,4 +15,4 @@ Tailwind CSS:
 npm install -D tailwindcss postcss autoprefixer
 npm tailwindcss init -p   ( create config files)
 
-image.png
+![image](https://user-images.githubusercontent.com/55349117/184669504-bd89b15a-0004-4311-bc8f-cc40765717eb.png)
